@@ -1,25 +1,25 @@
 # Projektmanagement
-Um ein Projekt erfolgreich durchführen zu können, bedarf es der richtigen Mittel um zusammen planen und arbeiten zu können. Dazu zählen nicht nur Kommunikation sondern auch Datentransfer und Dokumentenverwaltung.
+Um ein Projekt erfolgreich durchfÃ¼hren zu kÃ¶nnen, bedarf es der richtigen Mittel um zusammen planen und arbeiten zu kÃ¶nnen. Dazu zÃ¤hlen nicht nur Kommunikation sondern auch Datentransfer und Dokumentenverwaltung.
 
 ## Kommunikation
-- [Slack](https://slack.com/intl/de-de): kostenlos für kleine Gruppen, Chats in Threads unterteilbar und Übersichtlich, Dateiaustausch möglich, private und Gruppennachrichten, mit Email integration, Umfragen möglich, mit App
+- [Slack](https://slack.com/intl/de-de): kostenlos fÃ¼r kleine Gruppen, Chats in Threads unterteilbar und Ãœbersichtlich, Dateiaustausch mÃ¶glich, private und Gruppennachrichten, mit Email integration, Umfragen mÃ¶glich, mit App
 - [Discord](https://discordapp.com/): kostenloser Sprach- und Textchat, unterteilbar in Gruppen und Untergruppen, Mitgliederverwaltung und Zugriffsrechte einstellbar
-- [Email](https://cre.fm/cre104-e-mail): einer der ältesten Kommunikationswege seit Beginn des Internets
+- [Email](https://cre.fm/cre104-e-mail): einer der Ã¤ltesten Kommunikationswege seit Beginn des Internets
 
 ## Organisation/Planung
-- [Kanboard](https://kanboard.org/): kostenlos, Übersicht über ToDos und Zuständigkeiten einzelner Personen oder Gruppen, Email Integration
-- [Gantt](https://www.ganttproject.biz/): kostenlos, OpenSource, Aufgaben und Meilensteinplanung, Unterteilung in Unteraufgaben und Strukturen, Zeiterfassung, Online Zusammenarbeit möglich
+- [Kanboard](https://kanboard.org/): kostenlos, Ãœbersicht Ã¼ber ToDos und ZustÃ¤ndigkeiten einzelner Personen oder Gruppen, Email Integration
+- [Gantt](https://www.ganttproject.biz/): kostenlos, OpenSource, Aufgaben und Meilensteinplanung, Unterteilung in Unteraufgaben und Strukturen, Zeiterfassung, Online Zusammenarbeit mÃ¶glich
 - [Asana](https://asana.com/de/pricing): begrenzt kostenlos, ToDos, Kalender, Verantwortlichkeiten
-- [Basecamp](https://basecamp.com/): 99$/Monat, enthält alles von Kommunikation, Kalender, Datenaustausch, Mitgliederverwaltung, ToDos, etc
+- [Basecamp](https://basecamp.com/): 99$/Monat, enthÃ¤lt alles von Kommunikation, Kalender, Datenaustausch, Mitgliederverwaltung, ToDos, etc
 - [Evernote](https://evernote.com/intl/de/compare-plans): begrenzt kostenlos, Sammeln/ordnen/finden von Notizen/Dokumenten/Fotos
-- [A-Plan](https://www.braintool.com/): ab 10,90€/Monat, Ressourcenplanung & Zeiterfassung
+- [A-Plan](https://www.braintool.com/): ab 10,90â‚¬/Monat, Ressourcenplanung & Zeiterfassung
 - [in-STEP](prozessbasiertes Projektmanagement): nicht kostenlos, Dokumenten/Versionsmanagement, prozessbasiertes Projektmanagement
-- [Timonize](http://www.timonize.de/): ab 15€/Lizenz, Termine und Aufgaben erfassen/planen/verwalten
+- [Timonize](http://www.timonize.de/): ab 15â‚¬/Lizenz, Termine und Aufgaben erfassen/planen/verwalten
 
 ## Datenaustausch, - verwaltung
 - [Nextcloud](https://nextcloud.com/) OpenSource, Kostenlos, Dateiaustausch/Verwaltung, DestopApp mit Synchronisation, Mitglieder/Zugriffsverwaltung
 - [Git](https://git-scm.com/): kostenlos, OpenSource, Datei/Versionskontrolle
-- [GitHub](https://github.com/): Entwickler Platform, kostenlos, Zugriffsverwaltung, einfache Zusammenarbeit, Unterstützung/Fragen/Hilfen durch Community, jeder kann Code einsehen, mittlerweile von Microsoft
+- [GitHub](https://github.com/): Entwickler Platform, kostenlos, Zugriffsverwaltung, einfache Zusammenarbeit, UnterstÃ¼tzung/Fragen/Hilfen durch Community, jeder kann Code einsehen, mittlerweile von Microsoft
 
 ## Literaturverwaltung
 ### Vergleiche verschiedener Programme
@@ -27,25 +27,25 @@ Um ein Projekt erfolgreich durchführen zu können, bedarf es der richtigen Mittel
 
 ### Literaturverwaltungsprogramme
 - [citavi](): Campus-Lizenz, Datenbank/Katalog suche in Citavi, Browser-Extension, PDF-Linking, Volltextsuche
-- [BibTex](https://www.ctan.org/pkg/bibtex): kostenlos, OpenSource, für LaTex
-- [JabRef](https://www.jabref.org/): kostenlos, OpenSource, für LaTex, für hinterlegte Referenzdaten, keine Volltextsuche
+- [BibTex](https://www.ctan.org/pkg/bibtex): kostenlos, OpenSource, fÃ¼r LaTex
+- [JabRef](https://www.jabref.org/): kostenlos, OpenSource, fÃ¼r LaTex, fÃ¼r hinterlegte Referenzdaten, keine Volltextsuche
 - [Zoteo](https://www.zotero.org/): kostenlos, Browser-Extension
 - [Mendeley](https://www.mendeley.com/?interaction_required=true): bis 2GB kostenlos in Cloud, 
-- [Colwiz](https://wizdom.ai): kostenlos (max 5000 Referenzen/2GB), AI Integration für Referenzsuche, Dublettenkontrolle, leicht instabil, inkl Kalender/Kommunikation/Profil für Teams
-- [Endnote](https://endnote.com): kostenlos bis 500000 Datenstätze/2GB Cloud, kein Dokumentenaustausch
+- [Colwiz](https://wizdom.ai): kostenlos (max 5000 Referenzen/2GB), AI Integration fÃ¼r Referenzsuche, Dublettenkontrolle, leicht instabil, inkl Kalender/Kommunikation/Profil fÃ¼r Teams
+- [Endnote](https://endnote.com): kostenlos bis 500000 DatenstÃ¤tze/2GB Cloud, kein Dokumentenaustausch
 
 ## Werkzeuge
 ### Dokumentation
 - LaTex (inkl Modulen)
 	- [Overleaf](https://www.overleaf.com/):  online-LaTex-Editor, einfache Zusammenarbeit
 	- [TexMaker](http://www.xm1math.net/texmaker/): kostenlos, unicode, auto-completion, integrierte PDF Ansicht
-- [Markdown](https://markdown.de/): kostenlos, OpenSource, einfach und überall bedienbar, Datei-Split möglich 
-- [Microsoft Word](https://products.office.com/de-DE/word): Campus-Lizenz, leicht zu bedienen, stürzt bei größeren Dateien ab
+- [Markdown](https://markdown.de/): kostenlos, OpenSource, einfach und Ã¼berall bedienbar, Datei-Split mÃ¶glich 
+- [Microsoft Word](https://products.office.com/de-DE/word): Campus-Lizenz, leicht zu bedienen, stÃ¼rzt bei grÃ¶ÃŸeren Dateien ab
 
 ### Programmieren/Microcontrollersteuerung
 #### Programme
 - [Sublime](https://www.sublimetext.com/): kostenlose unlimitierte Testphase, Code/Markup/Prosa, kann nahezu alle Hochsprachen
-- [Arduino](http://arduino.cc): kostenlos, OpenSource, C++ ähnliche Sprache, eigene IDE mit Bootloader
+- [Arduino](http://arduino.cc): kostenlos, OpenSource, C++ Ã¤hnliche Sprache, eigene IDE mit Bootloader
 - [Vim](https://www.vim.org/): kostenlos, OpenSource, professioneller Editor
 - [Atom](https://atom.io/)
 - [Brackets](http://brackets.io/)
@@ -55,15 +55,15 @@ Um ein Projekt erfolgreich durchführen zu können, bedarf es der richtigen Mittel
 - [C++](https://www.iso.org/standard/64029.html)
 - [C#](https://docs.microsoft.com/de-de/dotnet/csharp/)
 - [Python](https://www.python.org/) z.B. auch Simulation
-- [HTML/CSS/JS/PHP/Node](https://www.w3resource.com/index.php): für Webinterface mit Übersicht/Datentransparenz
+- [HTML/CSS/JS/PHP/Node](https://www.w3resource.com/index.php): fÃ¼r Webinterface mit Ãœbersicht/Datentransparenz
 
 ### CAD
 - [Inventor](https://www.autodesk.de/products/inventor/overview): Campus-Lizenz, CAD Entwicklung, Zeichnungen
-- [OpenSCAD](https://www.openscad.org/): kostenlos, OpenSource, Programmierfähig, 2D+3D
+- [OpenSCAD](https://www.openscad.org/): kostenlos, OpenSource, ProgrammierfÃ¤hig, 2D+3D
 - [LibreCAD]():
 - [AutoCAD](http://www.autodesk.de/products/all-autocad/): professionelles 2D-Zeichenprogramm
 - [Catia](http://www.3ds.com/de/produkte-und-services/catia/): eines der umfangreichsten 3D-CAD-Systeme, gesamte Produktentwicklungszyklus
-- [Creo](http://de.ptc.com/product/creo): (ehem PTc), 2D- und 3D-Konstruktionen, Volumenkonstruktion/Baugruppen- und Zeichnungstools, Freiformflächenmodellierung, Schweiß- und Blechteilkonstruktion
+- [Creo](http://de.ptc.com/product/creo): (ehem PTc), 2D- und 3D-Konstruktionen, Volumenkonstruktion/Baugruppen- und Zeichnungstools, FreiformflÃ¤chenmodellierung, SchweiÃŸ- und Blechteilkonstruktion
 - [Solid Edge](http://www.plm.automation.siemens.com/de_de/products/velocity/solidedge/): Konstruktion, Fertigung, Simulation, Zusammenarbeit und photorealistes Rendering
 - [SolidWorks](http://www.solidworks.de/): benutzerfreundlich
 - [FreeCAD](http://free-cad.sourceforge.net/): OpenSource, kostenlos, mit Pyhtonschnittstelle
@@ -71,7 +71,7 @@ Um ein Projekt erfolgreich durchführen zu können, bedarf es der richtigen Mittel
 - [Medusa4](http://www.cad-schroer.de/produkte/medusa4.html/): kostenlos
 
 ### Simulation
-- [Matlab](https://de.mathworks.com/products/matlab.html): ab 35€, keine Campuslizenz mehr, Mathe/Grafik/Programmieren
+- [Matlab](https://de.mathworks.com/products/matlab.html): ab 35â‚¬, keine Campuslizenz mehr, Mathe/Grafik/Programmieren
 
 ###Local Web Servers
 - [Ampps](https://www.ampps.com/)
@@ -82,7 +82,7 @@ Um ein Projekt erfolgreich durchführen zu können, bedarf es der richtigen Mittel
 
 ## Team 
 ### Projektleitung 
-- Übersicht über Ressorts
+- Ãœbersicht Ã¼ber Ressorts
 - Einteilung/Verteilung der Aufgaben
 - Kontrolle/Absprache unter Gruppen organisieren
 
