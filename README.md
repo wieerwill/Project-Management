@@ -1,88 +1,80 @@
 # Projectmanagement
 In order to carry out a project successfully, you need the right means to plan and work together. This includes not only communication but also data transfer and document management.
 
-## Kommunikation
-- [Slack](https://slack.com/intl/de-de): kostenlos für kleine Gruppen, Chats in Threads unterteilbar und Übersichtlich, Dateiaustausch möglich, private und Gruppennachrichten, mit Email integration, Umfragen möglich, mit App
-- [Discord](https://discordapp.com/): kostenloser Sprach- und Textchat, unterteilbar in Gruppen und Untergruppen, Mitgliederverwaltung und Zugriffsrechte einstellbar
-- [Email](https://cre.fm/cre104-e-mail): einer der ältesten Kommunikationswege seit Beginn des Internets
+## Communikation
+- [Slack](https://slack.com/intl/de-de): free for small groups, Chats threadable, clear view, data transfer and email-able, with APP 
+- [Discord](https://discordapp.com/): free Speak- and Writechat, thread- and groupable
+- [Email](https://cre.fm/cre104-e-mail): one of the oldest ways to communicate through the internet
 
-## Organisation/Planung
-- [Kanboard](https://kanboard.org/): kostenlos, Übersicht über ToDos und Zuständigkeiten einzelner Personen oder Gruppen, Email Integration
-- [Gantt](https://www.ganttproject.biz/): kostenlos, OpenSource, Aufgaben und Meilensteinplanung, Unterteilung in Unteraufgaben und Strukturen, Zeiterfassung, Online Zusammenarbeit möglich
-- [Asana](https://asana.com/de/pricing): begrenzt kostenlos, ToDos, Kalender, Verantwortlichkeiten
-- [Basecamp](https://basecamp.com/): 99$/Monat, enthält alles von Kommunikation, Kalender, Datenaustausch, Mitgliederverwaltung, ToDos, etc
-- [Evernote](https://evernote.com/intl/de/compare-plans): begrenzt kostenlos, Sammeln/ordnen/finden von Notizen/Dokumenten/Fotos
-- [A-Plan](https://www.braintool.com/): ab 10,90€/Monat, Ressourcenplanung & Zeiterfassung
-- [in-STEP](prozessbasiertes Projektmanagement): nicht kostenlos, Dokumenten/Versionsmanagement, prozessbasiertes Projektmanagement
-- [Timonize](http://www.timonize.de/): ab 15€/Lizenz, Termine und Aufgaben erfassen/planen/verwalten
+## Organisation
+- [Kanboard](https://kanboard.org/): free of charge, overview of ToDos and responsibilities of individual persons or groups, email integration
+- [Gantt](https://www.ganttproject.biz/): free of charge, OpenSource, tasks and milestone planning, subdivision into sub-tasks and structures, time recording, online collaboration possible
+- [Asana](https://asana.com/de/pricing): limited free, ToDos, Calendar, Responsibilities
+- [Basecamp](https://basecamp.com/): 99$/month, includes everything from communication, calendar, data exchange, member management, ToDos, etc.
+- [Evernote](https://evernote.com/intl/de/compare-plans): limited free, collect/order/find notes/documents/photos
+- [A-Plan](https://www.braintool.com/): from 10,90€/month, resource planning & time recording
+- [in-STEP](prozessbasiertes Projektmanagement): not free of charge, document/version management, process-based project management
+- [Timonize](http://www.timonize.de/): from 15€/license, enter/plan/manage appointments and tasks
 
-## Datenaustausch, - verwaltung
-- [Nextcloud](https://nextcloud.com/) OpenSource, Kostenlos, Dateiaustausch/Verwaltung, DestopApp mit Synchronisation, Mitglieder/Zugriffsverwaltung
-- [Git](https://git-scm.com/): kostenlos, OpenSource, Datei/Versionskontrolle
-- [GitHub](https://github.com/): Entwickler Platform, kostenlos, Zugriffsverwaltung, einfache Zusammenarbeit, Unterstützung/Fragen/Hilfen durch Community, jeder kann Code einsehen, mittlerweile von Microsoft
+## Datatransfer
+- [Nextcloud](https://nextcloud.com/): OpenSource, Free of charge, File exchange/management, DestopApp with synchronization, Members/Access management
+- [Git](https://git-scm.com/): free of charge, OpenSource, file/version control
+- [GitHub](https://github.com/): Developer Platform, free, access management, easy collaboration, support/questions/help through community, anyone can view code, now from Microsoft
 
-## Literaturverwaltung
-### Vergleiche verschiedener Programme
-[Literaturverwaltungsprogramme im Vergleich](http://mediatum.ub.tum.de/1127579?show_id=1316333)
+## literature administration
+- [citavi](): Database/Catalog search in Citavi, Browser-Extension, PDF-Linking, Full Text Search
+- [BibTex](https://www.ctan.org/pkg/bibtex): free of charge, OpenSource, for LaTex
+- [JabRef](https://www.jabref.org/): free of charge, OpenSource, for LaTex, for stored reference data, no full text search
+- [Zoteo](https://www.zotero.org/): free of charge, Browser-Extension
+- [Mendeley](https://www.mendeley.com/?interaction_required=true): up to 2GB free in Cloud
+- [Colwiz](https://wizdom.ai): free of charge (max 5000 references/2GB), AI integration for reference search, duplicate check, slightly unstable, incl. calendar/communication/profile for teams
+- [Endnote](https://endnote.com): free of charge up to 500000 data records/2GB Cloud, no document exchange
 
-### Literaturverwaltungsprogramme
-- [citavi](): Campus-Lizenz, Datenbank/Katalog suche in Citavi, Browser-Extension, PDF-Linking, Volltextsuche
-- [BibTex](https://www.ctan.org/pkg/bibtex): kostenlos, OpenSource, für LaTex
-- [JabRef](https://www.jabref.org/): kostenlos, OpenSource, für LaTex, für hinterlegte Referenzdaten, keine Volltextsuche
-- [Zoteo](https://www.zotero.org/): kostenlos, Browser-Extension
-- [Mendeley](https://www.mendeley.com/?interaction_required=true): bis 2GB kostenlos in Cloud, 
-- [Colwiz](https://wizdom.ai): kostenlos (max 5000 Referenzen/2GB), AI Integration für Referenzsuche, Dublettenkontrolle, leicht instabil, inkl Kalender/Kommunikation/Profil für Teams
-- [Endnote](https://endnote.com): kostenlos bis 500000 Datenstätze/2GB Cloud, kein Dokumentenaustausch
+## Tools
+### Documentation
+- LaTex (inkl Moduls)
+	- [Overleaf](https://www.overleaf.com/): online LaTex editor, easy collaboration
+	- [TexMaker](http://www.xm1math.net/texmaker/): free of charge, unicode, auto-completion, integrated PDF view
+- [Markdown](https://markdown.de/): free of charge, OpenSource, easy and everywhere to use, file-split possible 
+- [Microsoft Word](https://products.office.com/de-DE/word): easy to use, crashes with larger files
 
-## Werkzeuge
-### Dokumentation
-- LaTex (inkl Modulen)
-	- [Overleaf](https://www.overleaf.com/):  online-LaTex-Editor, einfache Zusammenarbeit
-	- [TexMaker](http://www.xm1math.net/texmaker/): kostenlos, unicode, auto-completion, integrierte PDF Ansicht
-- [Markdown](https://markdown.de/): kostenlos, OpenSource, einfach und überall bedienbar, Datei-Split möglich 
-- [Microsoft Word](https://products.office.com/de-DE/word): Campus-Lizenz, leicht zu bedienen, stürzt bei größeren Dateien ab
+### Programming
+#### IDEs
+- [Sublime](https://www.sublimetext.com/): free of charge, Code/Markup/Prosa, can be used in almost all high-level languages
+- [Arduino](http://arduino.cc): free of charge, OpenSource, C++ similar language, own IDE with bootloader
+- [VisualStudio](https://www.visualstudio.com/): from Microsoft, standard in many areas
 
-### Programmieren/Microcontrollersteuerung
-#### Programme
-- [Sublime](https://www.sublimetext.com/): kostenlos, Code/Markup/Prosa, kann nahezu alle Hochsprachen
-- [Arduino](http://arduino.cc): kostenlos, OpenSource, C++ ähnliche Sprache, eigene IDE mit Bootloader
-- [VisualStudio](https://www.visualstudio.com/): Campus-Lizenz, von Microsoft, kann einige Sprachen 
-
-#### Sprachen
+#### Programming Languages
 - [C++](https://www.iso.org/standard/64029.html)
 - [C#](https://docs.microsoft.com/de-de/dotnet/csharp/)
-- [Python](https://www.python.org/) z.B. auch Simulation
-- [HTML/CSS/JS/PHP/Node](https://www.w3resource.com/index.php): für Webinterface mit Übersicht/Datentransparenz
+- [Python](https://www.python.org/)
+- [HTML/CSS/JS/PHP/Node](https://www.w3resource.com/index.php): Website and Webdevelopment
 
 ### CAD
-- [Inventor](https://www.autodesk.de/products/inventor/overview): Campus-Lizenz, CAD Entwicklung, Zeichnungen
-- [OpenSCAD](https://www.openscad.org/): kostenlos, OpenSource, Programmierfähig, 2D+3D
+- [Inventor](https://www.autodesk.de/products/inventor/overview): with fee, CAD development, drawings
+- [OpenSCAD](https://www.openscad.org/): free of charge, OpenSource, Programmable, 2D+3D
 - [LibreCAD]():
-- [AutoCAD](http://www.autodesk.de/products/all-autocad/): professionelles 2D-Zeichenprogramm
-- [Catia](http://www.3ds.com/de/produkte-und-services/catia/): eines der umfangreichsten 3D-CAD-Systeme, gesamte Produktentwicklungszyklus
-- [Creo](http://de.ptc.com/product/creo): (ehem PTc), 2D- und 3D-Konstruktionen, Volumenkonstruktion/Baugruppen- und Zeichnungstools, Freiformflächenmodellierung, Schweiß- und Blechteilkonstruktion
-- [Solid Edge](http://www.plm.automation.siemens.com/de_de/products/velocity/solidedge/): Konstruktion, Fertigung, Simulation, Zusammenarbeit und photorealistes Rendering
-- [SolidWorks](http://www.solidworks.de/): benutzerfreundlich
-- [FreeCAD](http://free-cad.sourceforge.net/): OpenSource, kostenlos, mit Pyhtonschnittstelle
-- [HiCAD](https://www.isdgroup.com/de/isd-produkte/cad-hicad.html): 2D und 3D, Produktmanagement
-- [Medusa4](http://www.cad-schroer.de/produkte/medusa4.html/): kostenlos
+- [AutoCAD](http://www.autodesk.de/products/all-autocad/): professional 2D drawing program
+- [Catia](http://www.3ds.com/de/produkte-und-services/catia/): one of the most comprehensive 3D CAD systems, entire product development cycle
+- [Creo](http://de.ptc.com/product/creo): (formerly PTc), 2D and 3D designs, volume design/assembly and drawing tools, free-form surface modeling, welding and sheet metal part design
+- [Solid Edge](http://www.plm.automation.siemens.com/de_de/products/velocity/solidedge/): Design, manufacturing, simulation, collaboration and photorealistic rendering
+- [SolidWorks](http://www.solidworks.de/): user friendly
+- [FreeCAD](http://free-cad.sourceforge.net/): OpenSource, free of charge, with Pyhton interface
+- [HiCAD](https://www.isdgroup.com/de/isd-produkte/cad-hicad.html): 2D and 3D, product management
+- [Medusa4](http://www.cad-schroer.de/produkte/medusa4.html/): free of charge
 
 ### Simulation
-- [Matlab](https://de.mathworks.com/products/matlab.html): ab 35€, keine Campuslizenz mehr, Mathe/Grafik/Programmieren
+- [Matlab](https://de.mathworks.com/products/matlab.html):  from 35€, Maths/Graphics/Programming
 
 
 ## Team 
-### Projektleitung 
-- Übersicht über Ressorts
-- Einteilung/Verteilung der Aufgaben
-- Kontrolle/Absprache unter Gruppen organisieren
+### Project Leader
+- Overview of resorts
+- Classification/distribution of tasks
+- Organize control/agreement among groups
 
-### Verantwortlichkeiten
-- MB: Konstruktion der Hardware, CAD Design und Simulation
-- EIT: Schaltungen entwerfen, Schnittstellen definieren
-- IT: Software, Programmieren, Systemeinrichtung, Systemkommunikation
-- Medien: Werbung, Design, Texte verfassen
-
-### Allg Verantwortlichkeit jeder Gruppierung
-- Recherchieren/Dokumentieren/Fotografieren
-- 
+### Responsibilities/Tasks
+- MB: Hardware design, CAD design and simulation
+- EIT: Design circuits, define interfaces
+- IT: Software, Programming, System Setup, System Communication
+- Media: Advertising, design, writing texts
