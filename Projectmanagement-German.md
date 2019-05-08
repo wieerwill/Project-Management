@@ -26,7 +26,7 @@ Um ein Projekt erfolgreich durchführen zu können, bedarf es der richtigen Mitt
 [Literaturverwaltungsprogramme im Vergleich](http://mediatum.ub.tum.de/1127579?show_id=1316333)
 
 ### Literaturverwaltungsprogramme
-- [citavi](): Campus-Lizenz, Datenbank/Katalog suche in Citavi, Browser-Extension, PDF-Linking, Volltextsuche
+- [citavi](): Datenbank/Katalog suche in Citavi, Browser-Extension, PDF-Linking, Volltextsuche
 - [BibTex](https://www.ctan.org/pkg/bibtex): kostenlos, OpenSource, für LaTex
 - [JabRef](https://www.jabref.org/): kostenlos, OpenSource, für LaTex, für hinterlegte Referenzdaten, keine Volltextsuche
 - [Zoteo](https://www.zotero.org/): kostenlos, Browser-Extension
@@ -40,7 +40,7 @@ Um ein Projekt erfolgreich durchführen zu können, bedarf es der richtigen Mitt
 	- [Overleaf](https://www.overleaf.com/):  online-LaTex-Editor, einfache Zusammenarbeit
 	- [TexMaker](http://www.xm1math.net/texmaker/): kostenlos, unicode, auto-completion, integrierte PDF Ansicht
 - [Markdown](https://markdown.de/): kostenlos, OpenSource, einfach und überall bedienbar, Datei-Split möglich 
-- [Microsoft Word](https://products.office.com/de-DE/word): Campus-Lizenz, leicht zu bedienen, stürzt bei größeren Dateien ab
+- [Microsoft Word](https://products.office.com/de-DE/word): leicht zu bedienen, stürzt bei größeren Dateien ab
 
 ### Programmieren/Microcontrollersteuerung
 #### Programme
@@ -49,16 +49,16 @@ Um ein Projekt erfolgreich durchführen zu können, bedarf es der richtigen Mitt
 - [Vim](https://www.vim.org/): kostenlos, OpenSource, professioneller Editor
 - [Atom](https://atom.io/)
 - [Brackets](http://brackets.io/)
-- [VisualStudio](https://www.visualstudio.com/): Campus-Lizenz, von Microsoft, kann einige Sprachen 
+- [VisualStudio](https://www.visualstudio.com/): von Microsoft, kann einige Sprachen 
 
 #### Sprachen
 - [C++](https://www.iso.org/standard/64029.html)
 - [C#](https://docs.microsoft.com/de-de/dotnet/csharp/)
 - [Python](https://www.python.org/) z.B. auch Simulation
-- [HTML/CSS/JS/PHP/Node](https://www.w3resource.com/index.php): für Webinterface mit Übersicht/Datentransparenz
+- [HTML/CSS/JS/PHP/Node](https://www.w3resource.com/index.php)
 
 ### CAD
-- [Inventor](https://www.autodesk.de/products/inventor/overview): Campus-Lizenz, CAD Entwicklung, Zeichnungen
+- [Inventor](https://www.autodesk.de/products/inventor/overview): CAD Entwicklung, Zeichnungen
 - [OpenSCAD](https://www.openscad.org/): kostenlos, OpenSource, Programmierfähig, 2D+3D
 - [LibreCAD]():
 - [AutoCAD](http://www.autodesk.de/products/all-autocad/): professionelles 2D-Zeichenprogramm
@@ -71,7 +71,7 @@ Um ein Projekt erfolgreich durchführen zu können, bedarf es der richtigen Mitt
 - [Medusa4](http://www.cad-schroer.de/produkte/medusa4.html/): kostenlos
 
 ### Simulation
-- [Matlab](https://de.mathworks.com/products/matlab.html): ab 35€, keine Campuslizenz mehr, Mathe/Grafik/Programmieren
+- [Matlab](https://de.mathworks.com/products/matlab.html): ab 35€, Mathe/Grafik/Programmieren
 
 ###Local Web Servers
 - [Ampps](https://www.ampps.com/)
