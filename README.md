@@ -1,5 +1,5 @@
-# Projektmanagement
-Um ein Projekt erfolgreich durchführen zu können, bedarf es der richtigen Mittel um zusammen planen und arbeiten zu können. Dazu zählen nicht nur Kommunikation sondern auch Datentransfer und Dokumentenverwaltung.
+# Projectmanagement
+In order to carry out a project successfully, you need the right means to plan and work together. This includes not only communication but also data transfer and document management.
 
 ## Kommunikation
 - [Slack](https://slack.com/intl/de-de): kostenlos für kleine Gruppen, Chats in Threads unterteilbar und Übersichtlich, Dateiaustausch möglich, private und Gruppennachrichten, mit Email integration, Umfragen möglich, mit App
