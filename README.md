@@ -68,13 +68,16 @@ In order to carry out a project successfully, you need the right means to plan a
 
 
 ## Team 
+In order to achieve Milestones and a target, one must build up a team. It can often be very difficult to work on a project alone. Not only are high demands and continuous motivation distributed across a team better to maintain but to reach the project as a whole more quickly.
+
 ### Project Leader
 - Overview of resorts
 - Classification/distribution of tasks
 - Organize control/agreement among groups
+- responsibility for Project and Team Members
 
 ### Responsibilities/Tasks
 - MB: Hardware design, CAD design and simulation
-- EIT: Design circuits, define interfaces
-- IT: Software, Programming, System Setup, System Communication
+- EIT: Design circuits, define interfaces, PCB design
+- IT: Software, Programming, System Setup & Communication
 - Media: Advertising, design, writing texts
