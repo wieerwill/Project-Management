@@ -1,14 +1,14 @@
 # Projectmanagement
 In order to carry out a project successfully, you need the right means to plan and work together. This includes not only communication but also data transfer and document management.
 
-## Communikation
+## Communication
 - [Slack](https://slack.com/intl/de-de): free for small groups, Chats threadable, clear view, data transfer and email-able, with APP 
 - [Discord](https://discordapp.com/): free Speak- and Writechat, thread- and groupable
 - [Email](https://cre.fm/cre104-e-mail): one of the oldest ways to communicate through the internet
 
 ## Organisation
 - [Kanboard](https://kanboard.org/): free of charge, overview of ToDos and responsibilities of individual persons or groups, email integration
-- [Gantt](https://www.ganttproject.biz/): free of charge, OpenSource, tasks and milestone planning, subdivision into sub-tasks and structures, time recording, online collaboration possible
+- [Gantt](https://www.ganttproject.biz/): free of charge, Open Source, tasks and milestone planning, subdivision into sub-tasks and structures, time recording, online collaboration possible
 - [Asana](https://asana.com/de/pricing): limited free, ToDos, Calendar, Responsibilities
 - [Basecamp](https://basecamp.com/): 99$/month, includes everything from communication, calendar, data exchange, member management, ToDos, etc.
 - [Evernote](https://evernote.com/intl/de/compare-plans): limited free, collect/order/find notes/documents/photos
@@ -25,7 +25,7 @@ In order to carry out a project successfully, you need the right means to plan a
 - [citavi](): Database/Catalog search in Citavi, Browser-Extension, PDF-Linking, Full Text Search
 - [BibTex](https://www.ctan.org/pkg/bibtex): free of charge, OpenSource, for LaTex
 - [JabRef](https://www.jabref.org/): free of charge, OpenSource, for LaTex, for stored reference data, no full text search
-- [Zoteo](https://www.zotero.org/): free of charge, Browser-Extension
+- [Zotero](https://www.zotero.org/): free of charge, Browser-Extension
 - [Mendeley](https://www.mendeley.com/?interaction_required=true): up to 2GB free in Cloud
 - [Colwiz](https://wizdom.ai): free of charge (max 5000 references/2GB), AI integration for reference search, duplicate check, slightly unstable, incl. calendar/communication/profile for teams
 - [Endnote](https://endnote.com): free of charge up to 500000 data records/2GB Cloud, no document exchange
@@ -35,19 +35,19 @@ In order to carry out a project successfully, you need the right means to plan a
 - LaTex (inkl Moduls)
 	- [Overleaf](https://www.overleaf.com/): online LaTex editor, easy collaboration
 	- [TexMaker](http://www.xm1math.net/texmaker/): free of charge, unicode, auto-completion, integrated PDF view
-- [Markdown](https://markdown.de/): free of charge, OpenSource, easy and everywhere to use, file-split possible 
+- [Markdown](https://markdown.de/): free of charge, Open Source, easy and everywhere to use, file-split possible 
 - [Microsoft Word](https://products.office.com/de-DE/word): easy to use, crashes with larger files
 
 ### Programming
 #### IDEs
 - [Sublime](https://www.sublimetext.com/): free of charge, Code/Markup/Prosa, can be used in almost all high-level languages
-- [Arduino](http://arduino.cc): free of charge, OpenSource, C++ similar language, own IDE with bootloader
+- [Arduino](http://arduino.cc): free of charge, Open Source, C++ similar language, own IDE with bootloader
 - [VisualStudio](https://www.visualstudio.com/): from Microsoft, standard in many areas
 
 #### Programming Languages
 - [C++](https://www.iso.org/standard/64029.html)
 - [C#](https://docs.microsoft.com/de-de/dotnet/csharp/)
-- [Python](https://www.python.org/)
+- [Python](https://www.python.org/): 
 - [HTML/CSS/JS/PHP/Node](https://www.w3resource.com/index.php): Website and Webdevelopment
 
 ### CAD
@@ -68,7 +68,7 @@ In order to carry out a project successfully, you need the right means to plan a
 
 
 ## Team 
-In order to achieve Milestones and a target, one must build up a team. It can often be very difficult to work on a project alone. Not only are high demands and continuous motivation distributed across a team better to maintain but to reach the project as a whole more quickly.
+In order to achieve Milestones and a target, one must build up a team. It can often be very difficult to work on a project alone. Not only are high demands and continuous motivation distributed across a team better to maintain, but to reach the project as a whole more quickly.
 
 ### Project Leader
 - Overview of resorts
