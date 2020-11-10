@@ -44,12 +44,12 @@ Um ein Projekt erfolgreich durchführen zu können, bedarf es der richtigen Mitt
 
 ### Programmieren/Microcontrollersteuerung
 #### Programme
-- [Sublime](https://www.sublimetext.com/): kostenlose unlimitierte Testphase, Code/Markup/Prosa, kann nahezu alle Hochsprachen
+- [Sublime](https://www.sublimetext.com/): kostenlose unlimitierte Testphase, Code/Markup/Prosa, kann alle Hochsprachen
 - [Arduino](http://arduino.cc): kostenlos, OpenSource, C++ ähnliche Sprache, eigene IDE mit Bootloader
 - [Vim](https://www.vim.org/): kostenlos, OpenSource, professioneller Editor
 - [Atom](https://atom.io/)
 - [Brackets](http://brackets.io/)
-- [VisualStudio](https://www.visualstudio.com/): von Microsoft, kann einige Sprachen 
+- [VisualStudio](https://www.visualstudio.com/): von Microsoft, kann alle Hochsprachen
 
 #### Sprachen
 - [C++](https://www.iso.org/standard/64029.html)
@@ -73,7 +73,7 @@ Um ein Projekt erfolgreich durchführen zu können, bedarf es der richtigen Mitt
 ### Simulation
 - [Matlab](https://de.mathworks.com/products/matlab.html): ab 35€, Mathe/Grafik/Programmieren
 
-###Local Web Servers
+### Local Web Servers
 - [Ampps](https://www.ampps.com/)
 - [Mamp](https://www.mamp.info/en/)
 - [WampServer](http://www.wampserver.com/en/)
